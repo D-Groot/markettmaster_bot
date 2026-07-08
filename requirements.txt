@@ -1,1 +1,5 @@
 pip3 install "python-telegram-bot[job-queue]" yfinance pandas --user python-dotenv==1.0.1
+python-telegram-bot[job-queue]>=20.0
+yfinance>=0.2.28
+python-dotenv>=1.0.0
+tzdata>=2024.1
